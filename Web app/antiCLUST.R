@@ -471,11 +471,11 @@ ui <- fluidPage(
                column(12, align = "justify",
                       br(),
                       tags$p(
-                        tags$strong("Preprint: Anticlustering for Sample Allocation To Minimize Batch Effects."),
-                        " Martin Papenberg, Cheng Wang, Maïgane Diop, Syed Hassan Bukhari, Boris Oskotsky, Brittany R. Davidson, Kim Chi Vo, Binya Liu, Juan C. Irwin, Alexis Combes, Brice Gaudilliere, Jingjing Li, David K. Stevenson, Gunnar W. Klau, Linda C. Giudice, Marina Sirota, Tomiko T. Oskotsky. bioRxiv 2025.03.03.641320; ",
+                        tags$strong("Publication: Anticlustering for Sample Allocation To Minimize Batch Effects."),
+                        " Martin Papenberg, Cheng Wang, Maïgane Diop, Syed Hassan Bukhari, Boris Oskotsky, Brittany R. Davidson, Kim Chi Vo, Binya Liu, Juan C. Irwin, Alexis J. Combes, Brice Gaudilliere, Jingjing Li, David K. Stevenson, Gunnar W. Klau, Linda C. Giudice, Marina Sirota, Tomiko T. Oskotsky. Cell Reports Methods 2025; ",
                         tags$a(
-                          href = "https://doi.org/10.1101/2025.03.03.641320",
-                          "doi: https://doi.org/10.1101/2025.03.03.641320",
+                          href = "https://doi.org/10.1016/j.crmeth.2025.101137",
+                          "doi: https://doi.org/10.1016/j.crmeth.2025.101137",
                           target = "_blank"
                         )
                       )
